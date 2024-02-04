@@ -20,7 +20,7 @@ You should generally stick to the intended rules of the board game, but changing
 
 Keep the threat levels secret. When starting a hunt, you can assign threats randomly, have players roll for initiative, or use some other system.
 
-The threat level can change on player actions as per the [Threat Shift](Player-Handbook#threat-shift) section in the player handbook. If it makes sense to change the threat otherwise, you can do so.
+The threat level can change on player actions as per the [Threat Shift](player_handbook.md#threat-shift) section in the player handbook. If it makes sense to change the threat otherwise, you can do so.
 
 A player will immediately become the highest threat when they:
 
