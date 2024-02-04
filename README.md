@@ -17,9 +17,9 @@ This is an evolving homebrew expansion. Things will change :)
 
 Please note that I'm currently running a longish campaign using this expansion!
 
-The [Player Handbook](https://github.com/Geko-X/MHW-Campaign-Expansion/wiki/Player-Handbook) contains everything that a player (and GM) will need to know. It covers the bulk of the changes.
+The [Player Handbook](player_handbook.md) contains everything that a player (and GM) will need to know. It covers the bulk of the changes.
 
-The [GM Handbook](https://github.com/Geko-X/MHW-Campaign-Expansion/wiki/GM-Handbook) has everything a GM should know. This will contain "secret information" that if you're running a campaign, may not want your players to know.
+The [GM Handbook](gm_handbook.md) has everything a GM should know. This will contain "secret information" that if you're running a campaign, may not want your players to know.
 
 The issue tracker is open for any issues or suggestions you may have.
 
