@@ -21,7 +21,7 @@ The [Player Handbook](player_handbook.md) contains everything that a player (and
 
 The [GM Handbook](gm_handbook.md) has everything a GM should know. This will contain "secret information" that if you're running a campaign, may not want your players to know.
 
-The issue tracker is open for any issues or suggestions you may have.
+The [issue tracker](https://github.com/Geko-X/MHW-Campaign-Expansion/issues) is open for any issues or suggestions you may have.
 
 ## Extra Notes
 
