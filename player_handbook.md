@@ -99,7 +99,8 @@ A player will immediately become the lowest threat when they:
 
 # Time Cards 
 ### Roar
-Players may place one card face down to stamina board to reduce 1 time card loss. Multiple players can place multiple cards.
+* Halve the cards lost, round down (ie: d3 instead of d6) 
+* Players may place one card face down to stamina board to reduce 1 time card loss. Multiple players can place multiple cards.
 
 ### Poisoncups, Vespoids, Toads
 All have a 1-point dodge value which you may elect to take when being hit. Falling boulders cannot be dodged.
