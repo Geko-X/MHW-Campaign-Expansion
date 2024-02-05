@@ -1,3 +1,5 @@
+[Home](README.md)
+
 # Bounties
 
 Bounties offer material rewards for completing certain objectives. Each player can hold one bounty at a time. Bounties are completed automatically when the the player who collected the bounty achieves the objective. Bounty rewards are awarded when returning from a hunt.
