@@ -61,6 +61,8 @@ If a Scented Monster Lure is used, roll a D12 and spawn the specific monster on 
 |     **Diablos**    	|    Rath    	|  Barroth++  	| Jyura+ 	|   Pukei++  	|   Anja+   	|   None   	|
 |  **Black Diablos** 	|    Rath    	|  Barroth++  	| Jyura+ 	|   Pukei++  	|   Anja+   	|  A. Rath 	|
 
+A plus (+) denotes a monster at a higher level than the quest target, ie: if you're fighting Assigned Rathalos and spawn Great Jagras++, it spawns at Tempered level. If you can't spawn it higher, then spawn the highest possible level.
+
 Use Turf War rules as outlined in Iceborne rulebook. In summary:
 * Spawn the invading monster with half health
 * Monsters see other monsters with a threat level of 10
