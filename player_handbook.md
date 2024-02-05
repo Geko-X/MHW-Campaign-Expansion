@@ -154,7 +154,6 @@ You may do any number of activities between hunts.
 As there is no Campaign Timer, quests can be repeated as often as needed, and there is no need to visit the Handler to replay a quest.
 
 ## Bounties
-Refer to <Bounty List>
  
 Bounties offer material rewards for completing certain objectives. Each player can hold one bounty at a time.  Bounties are completed automatically when the the player who collected the bounty achieves the objective. Bounty rewards are awarded when returning from a hunt.
 
@@ -163,6 +162,10 @@ Bounties are picked randomly by rolling a d20. The player rolls 3 bounties and p
 
 ### Collecting Rewards
 Roll a d12 to see what reward is collected. You may roll as many times as specified in the bounty reward.
+
+### Bounty List and Rewards Table
+
+The bounty list and rewards table can be found [here](bounties.md).
 
 ## Resource Centre Upgrades
 The Resource Centre can be upgraded to allow additional Downtime Activities. Multiple upgrades can be purchased at once. Upgrades take time to apply, and will be completed after the next hunt.
