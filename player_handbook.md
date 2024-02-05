@@ -19,7 +19,7 @@ Materials gathered and carved are shared.  You can exchange materials at the Res
 * 10 of any material --> 1 specified monster part
 * 3 of any monster part --> 1 specified monster part
 * 3 of any common --> 1 health OR stamina potion
-* 5 of any common --> 1 trap (once the Trapper has arrive
+* 5 of any common --> 1 trap (once the Trapper has arrived)
 
 When purchasing upgrades, you may also "automatically exchange" materials, regardless of if the Material Exchange upgrade has been purchased.
 
