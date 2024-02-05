@@ -29,5 +29,6 @@ The [issue tracker](https://github.com/Geko-X/MHW-Campaign-Expansion/issues) is 
 * You might need some extra dice and tokens
   * A token for each player's Palico
   * Some d8, d10, d12, and d20 for miscellaneous dice rolls
+* Print'n'Play assets will come eventually. These will include custom cards and tokens
 
 
