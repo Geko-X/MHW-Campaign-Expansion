@@ -14,8 +14,7 @@ This is a "campaign expansion" for the MHW Board Game. It adds:
 * And probably a few more things that I've forgotten
 
 This is an evolving homebrew expansion. Things will change :)
-
-Please note that I'm currently running a longish campaign using this expansion!
+Please note that I'm currently running a longish campaign using this expansion! So while it's not battle tested, it is getting there (and works quite well already).
 
 The [Player Handbook](player_handbook.md) contains everything that a player (and GM) will need to know. It covers the bulk of the changes.
 
