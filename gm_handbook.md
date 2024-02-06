@@ -18,6 +18,12 @@ You should generally stick to the intended rules of the board game, but changing
 * Discard both the tell and behaviour card at the end of the monster's turn (or keep the behaviour around to see the attack and player counts)
 * The tell and behaviour decks should run out at the same time. When they are, shuffle the tell deck and go again.
 
+# Monster Information
+
+You should tell players when they reach status threasholds, break values, etc... but also give clues as to health. They can record values as they seem fit.
+
+_I give a clue about health around 50% and 10 points left. This helps players know how they're going and if a monster is captureable._
+
 # Threat Level
 
 Keep the threat levels secret. When starting a hunt, you can assign threats randomly, have players roll for initiative, or use some other system.
