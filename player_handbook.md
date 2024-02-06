@@ -225,7 +225,7 @@ The Trapper sells tools to help your hunts. The Trapper stocks the following ite
 Everyone can bring their Palico on a hunt.
 
 Your Palico starts with your choice of any one Palico card. These must be unique across the party. 
-You can spend materials to train your Palico and unlock a new ability to use. Your Palico can have a total of **four** abilities.
+You can spend materials to train your Palico and unlock a new ability to use. Your Palico can have a total of **four** abilities to choose from, but can only bring **one** on a hunt.
 
 When departing on a hunt, all Palicos **must** have a unique ability.
 
