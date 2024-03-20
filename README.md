@@ -31,4 +31,7 @@ The [issue tracker](https://github.com/Geko-X/MHW-Campaign-Expansion/issues) is 
   * Some d8, d10, d12, and d20 for miscellaneous dice rolls
 * Print'n'Play assets will come eventually. These will include custom cards and tokens
 
+# MHW BG Community Content
+
+Want more community hombrew stuff? [Check out the community repository!](https://github.com/P1Rh0/MHW-TBG-Community-content)
 
