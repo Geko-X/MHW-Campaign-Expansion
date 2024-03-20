@@ -36,4 +36,4 @@ The [issue tracker](https://github.com/Geko-X/MHW-Campaign-Expansion/issues) is 
 Want more community hombrew stuff? [Check out the community repository!](https://github.com/P1Rh0/MHW-TBG-Community-content)
 
 # Changelog
-**20/03/24**: Updated canteen menu
+**20/03/24**: Updated canteen menu. Added backports of some Iceborne items (Life Powder, Ancient Potion, Barrel Bombs).
