@@ -54,19 +54,23 @@ Play any combination of actions in any order, unless specified
 * Sprint - play attack card face down, move the number of nodes specified by dodge value.
 * Consume Items - play face up on stamina board, remove if hurt before your next turn. On next turn, the item is used.
   * Health potions completely heal health (set health dial to full).
-  * Stamina potions completely refresh stamina (remove as many cards from stamina board as you want).
+  * Rations completely refresh stamina (remove as many cards from stamina board as you want).
   * Whetstone (sharpen) - reshuffle damage discard into damage deck. Return whetstone to shared supply.
+  * Life Powder - completely heal your Hunter and any Hunter in an adjacent node.
+  * Ancient Potion - completely heal your Hunter and refresh your stamina.
 * Place Item - place an item on your node. You cannot attack when placing an item.
-*   Trap - places a trap.
-  * Monster Lure - places a lure.
-* Short Rest / Take a Breather- remove 1 face up or 2 face down cards from your stamina board, but you cannot take any other action.
+  * Trap
+  * Monster Lure
+  * Barrel Bomb
+* Short Rest / Take a Breather- remove 1 face up or 2 face down cards from your stamina board, **but you cannot take any other action**.
 
 Once your actions are performed, perform hand maintenance by discard either 1 face up or 2 face down cards from anywhere on the Stamina Board, then draw and resolve a Time Card.
 
-## Traps
+## Consumables
+Play the item face up on stamina board, and return the item to the supply if you take damage before your next turn. At the start of your next turn, the item is used.
 
-Your party can carry 1 trap. Traps must be purchased from The Trapper.
-When a monster moves into a trap, it immediately ends its turn.
+## Trap
+Your party can carry 1 trap. Traps must be purchased from The Trapper. When a monster moves into a trap, it immediately ends its turn.
 
 You may also roll a d10 to attempt to capture the monster. If you roll higher than the monster's current health, you successfully capture the monster, and receive an additional d6 when rolling carves.
 
@@ -75,10 +79,15 @@ If you do not roll higher, you may resolve the player turns specified on the mon
 If you fail to capture the monster, it becomes enraged and its next behaviour card will have a player count of zero.
 
 ## Monster Lure
-
 Your party can carry 1 monster lure. Lures must be purchased from The Trapper.
 
 When a lure is used, it forces a Turf War to occur. If used in combat, is must be placed on a node. Another monster will then soon come from the closest edge node.
+
+## Barrel Bomb
+Throw a barrel bomb at the monster. You can throw the barrel any distance.
+
+Draw 2 ELEMENTAL DAMAGE cards. Reduce the monster’s health by the amount drawn. If the monster is suffering the sleep status ailment, it suffers double damage.
+
 
 # Fainting
 When you faint, immediately discard a time card. 
@@ -105,7 +114,7 @@ A player will immediately become the lowest threat when they:
 * Players may place one card face down to stamina board to reduce 1 time card loss. Multiple players can place multiple cards.
 
 ### Poisoncups, Vespoids, Toads
-All have a 1-point dodge value which you may elect to take when being hit. Falling boulders cannot be dodged.
+All have a 1-point dodge value which you may elect to take when being hit. **Falling boulders cannot be dodged**.
 
 # Weapons
 ### Insect Glaive
@@ -224,11 +233,14 @@ All weapons and armour forged are shared, however, these limits still apply:
 ## The Trapper
 The Trapper sells tools to help your hunts. The Trapper stocks the following items. Her inventory is refreshed after a hunt.
 
-| **Item**                 	| **Cost**                                                                            	| **Description**                                                                                                               	|
-|--------------------------	|-------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------	|
-| **Trap**                 	| 1 non-common material                                                               	| Allows capturing monsters                                                                                                     	|
-| **Basic Lure**           	| HR5 reached<br>1 non-common material                                                	| Basic monster lure.                                                                                                           	|
-| **Scented Monster Lure** 	| HR5 reached<br>1 non-common material<br><br>2 monster parts from a specific monster 	| A monster lure that increases the chance for a specific monster to be lured. Does not guarantee the monster is lured though.  	|
+| **Item**                 	| **Cost**                                                                        	| **Held Limit** 	| **Description**                                                                                                              	|
+|--------------------------	|---------------------------------------------------------------------------------	|----------------	|------------------------------------------------------------------------------------------------------------------------------	|
+| **Trap**                 	| 1 non-common material                                                           	| 1              	| Allows capturing monsters                                                                                                    	|
+| **Basic Lure**           	| HR5 reached<br>1 non-common material                                            	| 1              	| Basic monster lure.                                                                                                          	|
+| **Scented Monster Lure** 	| HR5 reached<br>1 non-common material<br>2 monster parts from a specific monster 	| 1              	| A monster lure that increases the chance for a specific monster to be lured. Does not guarantee the monster is lured though. 	|
+| **Life Powder**          	| HR10 reached<br>2 non-common materials<br>1 Health Potion                       	| 1              	| Completely heal your Hunter and any Hunter in an adjacent node.                                                              	|
+| **Ancient Potion**       	| HR15 reached<br>2 non-common materials<br>1 Health Potion<br>1 Ration           	| 1              	| Completely heal your Hunter and refresh your stamina.                                                                        	|
+| **Barrel Bomb**          	| 1 non-common material                                                           	| 1              	| Throwable explosive.                                                                                                         	|
 
 # Palico Training
 Everyone can bring their Palico on a hunt.
