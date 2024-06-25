@@ -22,6 +22,8 @@ The [GM Handbook](gm_handbook.md) has everything a GM should know. This will con
 
 The [issue tracker](https://github.com/Geko-X/MHW-Campaign-Expansion/issues) is open for any issues or suggestions you may have.
 
+**Update: Some of the backported rules (like stamina management and item usage) has been officially brought to World [here](https://steamforged.com/blogs/brands/monster-hunter-world-new-core-rules)**
+
 ## Extra Notes
 
 * I only have the Ancient Forest, Wildsprire Waste, and Hunter's Arsenal boxes. Feel free to add in things for other boxes.
