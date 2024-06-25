@@ -11,6 +11,7 @@ This is a "campaign expansion" for the MHW Board Game. It adds:
 * Some changes to hunts, based on the MHW:Iceborne Board Game demo (turf wars!)
 * Some new actions to take during hunts, including traps
 * Small balance tweaks to some weapons and armor cards to fit in with all the other additions
+* [Siege weaponry](siege_weapons.md) - cannon, ballista, dragonator...
 * And probably a few more things that I've forgotten
 
 This is an evolving homebrew expansion. Things will change :)
